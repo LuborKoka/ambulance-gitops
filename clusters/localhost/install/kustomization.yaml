@@ -9,3 +9,6 @@ labels:
 
 resources:
 - ../../../apps/xkoka-ambulance-ufe
+
+components:
+- ../../../components/version-developers
