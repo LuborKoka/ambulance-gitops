@@ -6,4 +6,4 @@ images:
   newTag: main.20250331.0919 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
 - name: lubco/ambulance-wl-webapi
   newName: lubco/ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+  newTag: main.20250331.1026 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
