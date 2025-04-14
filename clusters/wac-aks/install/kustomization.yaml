@@ -12,6 +12,7 @@ labels:
 
 resources:
 - ../../../apps/xkoka-ambulance-ufe
+- ../../../apps/xkoka-ambulance-webapi
 
 
 components:

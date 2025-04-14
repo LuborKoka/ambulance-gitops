@@ -3,4 +3,7 @@ kind: Component
 images:
 - name: lubco/ambulance-ufe
   newName: lubco/ambulance-ufe
-  newTag: latest  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.1.0 #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+- name: lubco/ambulance-wl-webapi
+  newName: lubco/ambulance-wl-webapi
+  newTag: 1.1.0
